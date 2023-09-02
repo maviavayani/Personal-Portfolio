@@ -9,7 +9,7 @@ I'm front-end web developer who's learning more programming languages and Backen
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerabdul&label=Profile%20views&color=0e75b6&style=flat" alt="programmerabdul" /> </p>
 
 * 🌍  I'm based in Karachi, Pakistan
-* 🖥️  See my [Portfolio](https://github.com/maviavayani/Personal-Portfolio.gitL)
+* 🖥️  See my [Portfolio](https://github.com/maviavayani/Personal-Portfolio.git)
 <!-- * ⚡  See my [LikedIn Profile](https://www.linkedin.com/in/abdul-rehman-jiwani-9054a5230) -->
 * ✉️  You can contact me at [maviavayani43@gmail.com](mailto:maviavayani43@gmail.com)
 * 🤝  I'm open to collaborate on interesting projects
